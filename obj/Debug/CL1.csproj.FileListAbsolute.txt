@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\CL1\bin\Debug\CL1.exe.config
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\CL1\bin\Debug\CL1.exe
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\CL1\bin\Debug\CL1.pdb
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\CL1\obj\Debug\CL1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\CL1\obj\Debug\CL1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\CL1\obj\Debug\CL1.exe
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\CL1\obj\Debug\CL1.pdb
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\PREGUNTA1\bin\Debug\CL1.exe.config
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\PREGUNTA1\bin\Debug\CL1.exe
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\PREGUNTA1\bin\Debug\CL1.pdb
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\PREGUNTA1\obj\Debug\CL1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\PREGUNTA1\obj\Debug\CL1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\PREGUNTA1\obj\Debug\CL1.exe
+C:\Users\USUARIO\Desktop\cursos de CIBERTEC 2021\TERCER CICLO\POOO\PREGUNTA1\obj\Debug\CL1.pdb
